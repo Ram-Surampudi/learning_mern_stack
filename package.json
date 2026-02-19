@@ -1,0 +1,15 @@
+{
+    "name": "project_management",
+    "version": "1.0.0",
+    "description": "sample prject",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "3.8.1"
+    }
+}
