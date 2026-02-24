@@ -11,4 +11,9 @@ export const TaskStatusEnum = {
     DONE : "done"
 }
 
+export const CookieOptions = {
+    httpOnly : true,
+    secure: true,
+} 
+
 export const AvailableTaskStatus = Object.values(TaskStatusEnum);
